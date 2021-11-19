@@ -29,6 +29,12 @@ h4 {
 .source { background-color: chocolate; padding: 0 10px; color: #fff; text-decoration: none;}
 
 /* INSERT YOUR CSS CODE HERE */
+.pclass {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .pitalics {
     font-style: italic;
-  
+    font-weight: 700;
+  }
